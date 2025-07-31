@@ -10,19 +10,19 @@ I'm a Data Analyst focused on transforming raw data into clear, actionable insig
 * 
 ## 🛠️ Skills & Tools
 
-* **Data Analysis & Visualization:** Advanced Excel (Formulas, PivotTables, Power Query), Power BI (DAX, Power Query, Data Modeling, Visualizations), SQL (for data extraction and manipulation - *if you have even basic SQL knowledge, keep this! If not, remove SQL*).
+* **Data Analysis & Visualization:** Advanced Excel (Formulas, PivotTables, Power Query), Power BI (DAX, Power Query, Data Modeling, Visualizations), SQL (for data extraction and manipulation.
 * **Concepts:** Data Modeling, Business Intelligence, Data Storytelling, Key Performance Indicators (KPIs).
 
 ## 🌱 Currently Learning / My Interests
 
 * Diving deeper into advanced DAX functions in Power BI.
-* Exploring Python for data analysis (Pandas, Matplotlib).
-* Understanding more about data governance principles.
+* Learning **SQL** for database management and querying.
+* Advancing **Python** skills for data analysis (Pandas, Matplotlib)
 
 ## 📊 Projects I'm Proud Of (Coming Soon!)
 
 I'm actively working on creating and uploading projects that showcase my skills in Excel and Power BI. Stay tuned for examples of:
-* Pizza Sales Performance Dashboards
+* SkillSphere Performance Dashboard
 * Dairy Goods Sales Performance Dashboard
 
 ## 📫 Let's Connect!
