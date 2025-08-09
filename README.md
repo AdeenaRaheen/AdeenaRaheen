@@ -19,14 +19,14 @@ I'm a Data Analyst focused on transforming raw data into clear, actionable insig
 * Learning **SQL** for database management and querying.
 * Advancing **Python** skills for data analysis (Pandas, Matplotlib)
 
-## 📊 Projects I'm Proud Of (Coming Soon!)
+## 📊 Projects I'm Proud Of 
 
 I'm actively working on creating and uploading projects that showcase my skills in Excel and Power BI. Stay tuned for examples of:
 * SkillSphere Performance Dashboard
-* Dairy Goods Sales Performance Dashboard
+* Workforce Insights Dashboard
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [(https://www.linkedin.com/in/adeena-raheen-24b4771b2/)]
+* **LinkedIn:** [(https://www.linkedin.com/in/adeena-raheen-data-analyst )]
 * **Email:** aadeenaraheen@gmail.com
 * **WhatsApp:** +923145363560
